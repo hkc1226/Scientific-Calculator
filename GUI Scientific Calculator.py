@@ -60,7 +60,6 @@ menubar.add_cascade(label="Exit", command=iExit)  # Exit key.
 
 ''' FUNCTIONS '''
 
-
 # Function to add in the entry of text display.
 def button_click(char):
     global calc_operator
