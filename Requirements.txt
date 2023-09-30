@@ -1,0 +1,7 @@
+Note: You do not have to install any extra tools to run this project. The modules/ liberaries used in this project already comes pre-installed with the python environment.
+You just need to install latest python environment properly.
+
+After installation, navigate to the folder where python file is available type 'cmd' in the address bar of that folder, hit enter 
+then you will be prompted to command prompt then enter the command as 'python filename.py' then press enter. 
+
+Now you are ready to work with the calculator.
